@@ -1,2 +1,2 @@
-# Java_RestAssured_Test_Project
+# Java_Rest Assured_Test_Project
 API testing project with java + Rest Assured + Allure report
